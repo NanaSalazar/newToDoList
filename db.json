@@ -1,0 +1,26 @@
+{
+  "tasks": [
+    {
+      "title": "tarefa 1",
+      "completed": true,
+      "createdAt": 1663085227048,
+      "updatedAt": 1663085477126,
+      "id": 5,
+      "userId": "2"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "server1@server.com"
+    },
+    {
+      "id": 2,
+      "email": "server2@server.com"
+    },
+    {
+      "id": 3,
+      "email": "server3@server.com"
+    }
+  ]
+}
